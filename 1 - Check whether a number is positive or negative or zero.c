@@ -9,7 +9,7 @@ int main()
     if (number <= 0.0)
     {
         if (number == 0.0)
-            printf("You entered 0.");
+            printf("You entered 0");
         else
             printf("You entered a negative number.");
     }
